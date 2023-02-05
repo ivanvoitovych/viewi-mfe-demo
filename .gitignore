@@ -1,0 +1,9 @@
+composer.phar
+/vendor/
+**/build/**/*
+!**/build/.gitkeep
+**/viewi-build/**/*
+Application/config.php
+viewi-app/publicConfig.php
+server.pid
+**/viewi-ui/**/*

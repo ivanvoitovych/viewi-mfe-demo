@@ -1,0 +1,10 @@
+{
+    "require": {
+        "viewi/viewi": "^0.8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Components\\": "viewi-app/Components/"
+        }
+    }
+}
